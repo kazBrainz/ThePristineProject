@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.465874in" height="0.462571in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 452.68 449.47"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#FAA954;stroke-width:6.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61313}
+    .str1 {stroke:#373435;stroke-width:2.92;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61313}
+    .fil0 {fill:#FDE4D3}
+    .fil2 {fill:#FAA954}
+    .fil3 {fill:#F58634}
+    .fil1 {fill:#9D98CA}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2452389703200">
+   <ellipse class="fil0" cx="226.34" cy="224.74" rx="226.34" ry="224.74"/>
+   <g>
+    <path class="fil1 str0" d="M142.53 135.13c-4.29,-121.08 131.97,-124.22 156.29,-30.29 -26.86,117.4 -20.43,140.36 -1.02,229.66 -16.85,120.84 -167.53,82.15 -152.16,-4.84 22.1,-80.05 21.04,-142.05 -3.11,-194.52z"/>
+    <path class="fil1 str1" d="M182.97 124.74c-4.96,-54.95 54.91,-67.99 71.55,-27.61 4.84,11.74 1.17,25.58 -8.23,22.28 -11.53,17.54 -6.1,122.73 7.27,187.81 33.44,78.04 -95.06,95.17 -68.2,1.16 33.68,-100.14 7.59,-147.27 -2.38,-183.64z"/>
+    <path class="fil2 str0" d="M94.38 159.02c18.75,-6.79 31.08,-13.36 49.82,-20.15 23.53,65.65 27.4,114.95 6.26,172.06 -16.11,-5.6 -40.06,-16.5 -56.18,-22.1 16.64,-52.47 15.31,-84.75 0.1,-129.81z"/>
+    <path class="fil2 str0" d="M350.96 288.68c-18.75,6.79 -39.61,15.05 -58.36,21.84 -21.5,-66.31 -18.86,-116.65 2.27,-173.76 16.12,5.6 40.06,16.5 56.18,22.1 -16.64,52.46 -15.3,84.75 -0.09,129.81z"/>
+    <ellipse class="fil3" cx="221.48" cy="217.04" rx="14.99" ry="66.17"/>
+   </g>
+  </g>
+ </g>
+</svg>

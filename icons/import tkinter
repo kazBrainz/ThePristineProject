@@ -1,0 +1,49 @@
+import tkinter
+
+root = tkinter.Tk()
+root.title("Calculator app")
+root.geometry("500x500")
+
+def add():
+    num1 = int(e1.get())
+    num2 = int(e2.get())
+
+    result = num1 + num2
+    e3.insert("end", str(result))
+
+def clear():
+    e1.delete(0, "end")
+    e2.delete(0, "end")
+    e3.delete(0, "end")
+
+l1 = tkinter.Label(root,text="First Number")
+l2 = tkinter.Label(root,text="Second Number")
+l3 = tkinter.Label(root,text="Result")
+
+e1 = tkinter.Entry()
+e2 = tkinter.Entry()
+e3 = tkinter.Entry()
+
+b1 = tkinter.Button(root, text="Add", command=add)
+b2 = tkinter.Button(root, text="Subtract", command=)
+b3 = tkinter.Button(root, text="Multiply", command=)
+b4 = tkinter.Button(root, text="Divide", command=)
+b5 = tkinter.Button(root, text="Clear", command=clear)
+
+
+
+l1.pack()
+e1.pack()
+l2.pack()
+e2.pack()
+l3.pack()
+e3.pack()
+
+b1.pack()
+b2.pack()
+b3.pack()
+b4.pack()
+b5.pack()
+
+
+root.mainloop()
